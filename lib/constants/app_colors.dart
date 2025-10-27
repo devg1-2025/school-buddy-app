@@ -1,17 +1,7 @@
 
 class AppColors {
   static const int primaryColor = 0xFF073B4C;
-  static const int primaryVariantColor = 0xFF3700B3;
-  static const int secondaryColor = 0xFF03DAC6;
-  static const int secondaryVariantColor = 0xFF018786;
-  static const int backgroundColor = 0xFFFFFFFF;
-  static const int surfaceColor = 0xFFFFFFFF;
-  static const int errorColor = 0xFFB00020;
-  static const int onPrimaryColor = 0xFFFFFFFF;
-  static const int onSecondaryColor = 0xFF000000;
-  static const int onBackgroundColor = 0xFF000000;
-  static const int onSurfaceColor = 0xFF000000;
-  static const int onErrorColor = 0xFFFFFFFF;
+  
 
   // card colors
   static const int cardColor1 = 0xFFF7F4A3;
